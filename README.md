@@ -1,7 +1,8 @@
 # Tollywood Movie Quiz
-# Tollywood Movie Quiz
 
 Welcome to the Tollywood Movie Quiz! This is a fun, interactive quiz based on Tollywood movies, built using HTML, CSS, and JavaScript. Test your knowledge and see how well you know Tollywood films!
+
+
 
 ## Features
 
@@ -9,6 +10,8 @@ Welcome to the Tollywood Movie Quiz! This is a fun, interactive quiz based on To
 - **Dynamic Content:** Questions and answers are generated dynamically using JavaScript.
 - **Responsive Design:** Optimized for both desktop and mobile devices.
 - **Stylish Interface:** Clean and user-friendly design with custom CSS.
+
+
 
 ## Contributing
 
